@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = stefan.menke@aol.com
+	email = Stefan.Menke@aol.com
 	name = Stefan Menke
